@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">MoneyManager</string>
+  <string name="title_incomes">Incomes</string>
+  <string name="title_expenses">Expenses</string>
+  <string name="title_budget">Budget</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_incomes_fragment">Hello Incomes fragment</string>
+  <string name="hello_expenses_fragment">Hello Expenses fragment</string>
+  <string name="hello_budget_fragment">Hello Budget fragment</string>
+</resources>

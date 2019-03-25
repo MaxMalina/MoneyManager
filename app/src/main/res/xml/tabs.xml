@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+  <tab
+    drawable="@drawable/ic_attach_money_24px"
+    text="@string/title_incomes" />
+  <tab
+    drawable="@drawable/ic_money_off_24px"
+    text="@string/title_expenses" />
+
+  <tab
+    drawable="@drawable/ic_bar_chart_24px"
+    text="@string/title_budget" />
+</tabs>
